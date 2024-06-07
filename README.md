@@ -13,4 +13,6 @@ This is a python server that does...
 
 ## Running the Code
 
+## Running the Tests.
+
 ## Understanding the code and functions
