@@ -1,2 +1,2 @@
-#openssl
-#pytest
+openssl
+pytest
