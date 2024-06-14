@@ -14,7 +14,7 @@ blinker==1.4
 certifi==2019.11.28
 cffi==1.14.6
 chardet==3.0.4
-cliapp==1.20180812.1
+
 click==8.1.7
 cloudpickle==1.3.0
 cmdtest==0.32+git
